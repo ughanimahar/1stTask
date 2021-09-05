@@ -1,0 +1,13 @@
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\bin\Debug\netcoreapp2.1\InventoryManagmentWEBApi.deps.json
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\bin\Debug\netcoreapp2.1\InventoryManagmentWEBApi.runtimeconfig.json
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\bin\Debug\netcoreapp2.1\InventoryManagmentWEBApi.runtimeconfig.dev.json
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\bin\Debug\netcoreapp2.1\InventoryManagmentWEBApi.dll
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\bin\Debug\netcoreapp2.1\InventoryManagmentWEBApi.pdb
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.csproj.CoreCompileInputs.cache
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.RazorAssemblyInfo.cache
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.RazorAssemblyInfo.cs
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.AssemblyInfoInputs.cache
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.AssemblyInfo.cs
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.RazorTargetAssemblyInfo.cache
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.dll
+C:\Users\u.ghani\Desktop\Core Practice\InventoryManagment\InventoryManagmentWEBApi\obj\Debug\netcoreapp2.1\InventoryManagmentWEBApi.pdb
